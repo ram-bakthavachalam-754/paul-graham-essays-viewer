@@ -37,7 +37,7 @@ A Chrome extension that transforms Paul Graham's essays into a modern, readable 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/paul-graham-essays-viewer.git
+   git clone https://github.com/ram-bakthavachalam-754/paul-graham-essays-viewer.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
@@ -103,4 +103,4 @@ Created to enhance the reading experience of Paul Graham's excellent essays.
 
 ## Support
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/YOUR_USERNAME/paul-graham-essays-viewer/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/ram-bakthavachalam-754/paul-graham-essays-viewer/issues).
