@@ -60,7 +60,9 @@ Once installed, the extension automatically activates when you visit any page on
 
 ## Screenshots
 
-![Paul Graham Essay Viewer](paul%20graham.png)
+![Paul Graham Essay Viewer](paul-graham1.png)
+
+![Paul Graham Essay Viewer](paul-graham2.png)
 
 *The extension transforms Paul Graham's website with a modern header, clean typography, and improved readability.*
 
