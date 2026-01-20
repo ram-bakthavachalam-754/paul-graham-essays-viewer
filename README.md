@@ -52,7 +52,7 @@ A Chrome extension that transforms Paul Graham's essays into a modern, readable 
 
 ### From Chrome Web Store
 
-*Coming soon!*
+https://chromewebstore.google.com/detail/paul-graham-essay-viewer/offjafamdaeeeahcegkcjgpcaijlfece
 
 ## Usage
 
